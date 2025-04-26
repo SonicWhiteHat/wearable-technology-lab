@@ -5,16 +5,17 @@
 
 ---
 autism-smart-bracelet/
-├── README.md       # ملف الملخص الرئيسي
-├── docs/           # توثيق إضافي
+├── README.md
+├── docs/
 │   ├── product-vision.md
 │   ├── agile-scrum-plan.md
 │   ├── sensors-and-technology.md
 │   ├── dashboard-design.md
 │   └── deep-philosophy.md
-├── backend/        # كود Laravel
-├── frontend/       # كود React
-└── hardware/       # ملفات المتحكمات والالكترونيك
+├── backend/
+├── frontend/
+└── hardware/
+
 
 
 ## 🚀 ماذا يغطي هذا المختبر؟
