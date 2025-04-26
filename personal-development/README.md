@@ -1,28 +1,28 @@
-## 🧠 Personal Development Section
+## 🧠 قسم التطوير الشخصي
 
-We believe that building cutting-edge technology also requires building a strong version of ourselves.
+نؤمن أن بناء تكنولوجيا متقدمة يتطلب بالتوازي بناء نسخة قوية من أنفسنا.
 
-This section includes:
-- **Speed Writing Practice** (typing faster to boost productivity)
-- **Speed Reading Techniques** (understanding faster to learn better)
-- **Morning Miracle Routine** (based on the book *The Miracle Morning*)
-- **Deep Habit Formation** (based on the book *The Power of Habit*)
-- **Learning Linux** (assigning the right distro for each role)
-- **Multidisciplinary Skills** (becoming a T-shaped professional)
+يتضمن هذا القسم:
+- **تمارين الكتابة السريعة** (زيادة سرعة الكتابة لتعزيز الإنتاجية)
+- **تقنيات القراءة السريعة** (فهم أفضل خلال وقت أقصر)
+- **روتين معجزة الصباح** (استنادًا إلى كتاب *معجزة الصباح*)
+- **تكوين العادات العميقة** (استنادًا إلى كتاب *قوة العادات*)
+- **تعلم لينكس** (اختيار التوزيعة المناسبة لكل دور)
+- **المهارات متعددة التخصصات** (التحول إلى محترف على شكل حرف T)
 
 ---
 
-## 📊 Priority Management — Eisenhower Matrix
+## 📊 إدارة الأولويات — مصفوفة أيزنهاور
 
-Managing tasks based on urgency and importance boosts efficiency.
+إدارة المهام بناءً على الإلحاح والأهمية تعزز الكفاءة.
 
-|               | **Urgent**                  | **Not Urgent**              |
-|---------------|------------------------------|------------------------------|
-| **Important** | ✅ Do it now (High priority)  | 🧠 Plan to do it (Schedule)   |
-| **Not Important** | 📨 Delegate it to someone else | 🗑️ Eliminate or ignore         |
+|                | **عاجل**                     | **غير عاجل**                     |
+|----------------|-------------------------------|-----------------------------------|
+| **مهم**        | ✅ نفّذه فورًا (أولوية قصوى)    | 🧠 خطط له بعناية (جدولة)          |
+| **غير مهم**    | 📨 فوّضه إلى شخص آخر            | 🗑️ تجاهله أو احذفه                 |
 
-**Simple Rule:**
-- **Important + Urgent** → Act immediately.
-- **Important + Not Urgent** → Schedule it carefully.
-- **Not Important + Urgent** → Try to delegate.
-- **Not Important + Not Urgent** → Avoid.
+**القاعدة البسيطة:**
+- **مهم + عاجل** → نفّذ مباشرةً.
+- **مهم + غير عاجل** → حدده في جدول أعمالك.
+- **غير مهم + عاجل** → حاول تفويضه لشخص آخر.
+- **غير مهم + غير عاجل** → تجاهله أو تخلص منه.
