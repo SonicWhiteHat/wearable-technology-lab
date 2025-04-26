@@ -26,14 +26,36 @@ It includes work templates, detailed documentation, Agile/Scrum development plan
 | [`docs/sensors-and-technology/`](./docs/sensors-and-technology/README.md) | Sensors and technology overview |
 | [`docs/dashboard-design/`](./docs/dashboard-design/README.md) | Designing smart dashboards |
 | [`docs/deep-philosophy/`](./docs/deep-philosophy/README.md) | Deep philosophy and science behind wearables |
-| [`docs/personal-development/`](./docs/personal-development/README.md) | Personal growth and skill development resources |
+| [`personal-development/`](./personal-development/README.md) | Personal growth and skill development resources |
 
 ---
 
-## 🛠️ Available Templates
+## 🛠️ Development Sections
 
-- **[Laravel + React Template](./backend/)**: For building dashboards connected to smart devices.
-- **[Hardware Prototype Template](./hardware/)**: For rapid prototyping using Arduino, ESP32, and various sensors.
+### 🔵 Frontend
+
+- Building interactive applications using **React.js**.
+- Designing modern and user-friendly dashboards to monitor device data.
+
+> Path: [`frontend/`](./frontend/)
+
+---
+
+### 🟠 Backend
+
+- Building powerful APIs using **Laravel**.
+- Managing secure communications with smart devices and cloud data storage.
+
+> Path: [`backend/`](./backend/)
+
+---
+
+### 🟢 Hardware
+
+- Developing prototypes using **Arduino**, **ESP32**, and precision medical sensors.
+- Designing circuit diagrams and integrating hardware with software systems.
+
+> Path: [`hardware/`](./hardware/)
 
 ---
 
