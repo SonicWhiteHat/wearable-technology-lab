@@ -1,5 +1,3 @@
-# wearable-technology-lab
-مستودع عام (Lab) لكل مشاريع تكنولوجيا قابلة للارتداء (Wearable Technology).
 wearable-technology-lab/
 ├── README.md              # تعريف عام وشامل
 ├── docs/                  # توثيق وتفاصيل مفصلة
@@ -19,4 +17,3 @@ wearable-technology-lab/
     ├── fitness-ring/
     ├── sleep-monitor-headband/
     └── stress-relief-neckband/
-
