@@ -1,11 +1,16 @@
 autism-smart-bracelet/
 ├── README.md
 ├── docs/
-│   ├── product-vision.md
-│   ├── agile-scrum-plan.md
-│   ├── sensors-and-technology.md
-│   ├── dashboard-design.md
-│   └── deep-philosophy.md
+│   ├── product-vision/
+│   │   └── README.md
+│   ├── agile-scrum-plan/
+│   │   └── README.md
+│   ├── sensors-and-technology/
+│   │   └── README.md
+│   ├── dashboard-design/
+│   │   └── README.md
+│   └── deep-philosophy/
+│       └── README.md
 ├── backend/
 ├── frontend/
 └── hardware/
