@@ -1,4 +1,4 @@
-autism-smart-bracelet/
+🌟 Wearable Technology Lab-smart-bracelet/
 ├── README.md
 ├── docs/
 │   ├── product-vision/
