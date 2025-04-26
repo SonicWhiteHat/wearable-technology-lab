@@ -17,3 +17,5 @@
 - **backend/** — Laravel backend code.
 - **frontend/** — React frontend code.
 - **hardware/** — Hardware (Arduino / Microcontrollers) code.
+- **personal-development/** — 🧠 Personal growth resources and plans.
+  - README.md

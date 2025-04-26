@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-🌟 Wearable Technology Lab-smart-bracelet/
-├── README.md
-├── docs/
-│   ├── product-vision/
-│   │   └── README.md
-│   ├── agile-scrum-plan/
-│   │   └── README.md
-│   ├── sensors-and-technology/
-│   │   └── README.md
-│   ├── dashboard-design/
-│   │   └── README.md
-│   └── deep-philosophy/
-│       └── README.md
-├── backend/
-├── frontend/
-└── hardware/
-=======
 # 🌟 Wearable Technology Lab - Smart Bracelet
 
 ## 📂 Project Structure
@@ -35,4 +17,5 @@
 - **backend/** — Laravel backend code.
 - **frontend/** — React frontend code.
 - **hardware/** — Hardware (Arduino / Microcontrollers) code.
->>>>>>> a72bcee2f4c82fed4d726f93a4f205353dd5dfe7
+- **personal-development/** — 🧠 Personal growth resources and plans.
+  - README.md
