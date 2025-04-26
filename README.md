@@ -26,7 +26,7 @@
 | [`docs/sensors-and-technology/`](./docs/sensors-and-technology/README.md) | نظرة عامة على أهم المستشعرات والتقنيات المستخدمة |
 | [`docs/dashboard-design/`](./docs/dashboard-design/README.md) | تصميم لوحات التحكم الذكية للمستخدم |
 | [`docs/deep-philosophy/`](./docs/deep-philosophy/README.md) | الفلسفة العميقة: لماذا نبني أجهزة تركّز على الإنسان؟ |
-| [`docs/personal-development/`](./docs/personal-development/README.md) | تطوير الذات للمبدعين في مجال التكنولوجيا |
+| [`docs/personal-development/`](./personal-development/README.md) | تطوير الذات للمبدعين في مجال التكنولوجيا |
 
 ---
 
