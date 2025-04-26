@@ -26,7 +26,7 @@ It includes work templates, detailed documentation, Agile/Scrum development plan
 | [`docs/sensors-and-technology/`](./docs/sensors-and-technology/README.md) | Overview of essential sensors and technologies |
 | [`docs/dashboard-design/`](./docs/dashboard-design/README.md) | Designing smart, user-centered dashboards |
 | [`docs/deep-philosophy/`](./docs/deep-philosophy/README.md) | Deep philosophy: why we build human-centered wearables |
-| [`docs/personal-development/`](./personal-development/README.md) | Personal development for technology creators |
+| [`personal-development/`](./personal-development/README.md) | Personal development for technology creators |
 
 ---
 
@@ -61,7 +61,7 @@ This track covers:
 - Multidisciplinary skill acquisition
 - Priority management (Eisenhower Matrix)
 
-(More inside [`docs/personal-development/`](./docs/personal-development/README.md).)
+(More inside [`personal-development/`](./personal-development/README.md).)
 
 ---
 
