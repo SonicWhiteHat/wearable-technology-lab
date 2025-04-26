@@ -1,17 +1,79 @@
-# 🌟 Product Vision - Autism Smart Bracelet
+# 🌟 Wearable Technology Lab
 
-## 🎯 Objective
-Create a smart bracelet that detects early signs of stress in individuals with autism and alerts caregivers before behavioral outbursts occur.
-
-## 🔥 Why is this project important?
-- Stress signals appear physically several minutes before an emotional explosion.
-- Early intervention reduces risks and improves the quality of life.
+An open repository aiming to organize and support the development of wearable technology projects.  
+It includes work templates, detailed documentation, Agile/Scrum development plans, and personal development tracks for engineers.
 
 ---
 
-## 🛠️ Simple Example:
-Imagine a basic smartwatch that measures your heart rate.  
-Every time your heart rate exceeds 120 bpm, the watch lights up red.  
-(This is how the smart bracelet will work to detect early signs of stress.)
+## 🚀 What Does This Lab Cover?
+
+- Scientific introduction to wearable technology
+- Agile and Scrum framework tailored for wearable projects
+- Integrated hardware and software architecture
+- Core sensors library
+- Practical project templates (Hardware + Software)
+- Real-world success stories
+- Personal development pathway for builders
+
+---
+
+## 📚 Repository Structure
+
+| Path | Description |
+|:---|:---|
+| [`docs/product-vision/`](./docs/product-vision/README.md) | Future vision for wearable projects |
+| [`docs/agile-scrum-plan/`](./docs/agile-scrum-plan/README.md) | Project management with Agile and Scrum |
+| [`docs/sensors-and-technology/`](./docs/sensors-and-technology/README.md) | Sensors and technology overview |
+| [`docs/dashboard-design/`](./docs/dashboard-design/README.md) | Designing smart dashboards |
+| [`docs/deep-philosophy/`](./docs/deep-philosophy/README.md) | Deep philosophy and science behind wearables |
+| [`docs/personal-development/`](./docs/personal-development/README.md) | Personal growth and skill development resources |
+
+---
+
+## 🛠️ Available Templates
+
+- **[Laravel + React Template](./backend/)**: For building dashboards connected to smart devices.
+- **[Hardware Prototype Template](./hardware/)**: For rapid prototyping using Arduino, ESP32, and various sensors.
+
+---
+
+## 🌍 Real-World Projects within the Lab
+
+- Autism Smart Bracelet
+- Fitness Monitoring Ring
+- Sleep Quality Headband
+- Stress Detection Neckband
+
+(Each project follows Agile Sprints methodology and will be added here progressively.)
+
+---
+
+## 🧠 Personal Development Track
+
+> We believe building great technology starts with building a great human.
+
+Covered topics:
+- Speed typing exercises
+- Speed reading techniques
+- Morning Miracle routine (based on *The Miracle Morning* book)
+- Deep habit formation (inspired by *The Power of Habit*)
+- Learning Linux based on your role
+- Acquiring multidisciplinary skills
+- Managing priorities with the Eisenhower Matrix
+
+(More details inside [`docs/personal-development/`](./docs/personal-development/README.md).)
+
+---
+
+## 💬 Final Notes
+
+> This lab does not only create devices — it creates new ways of understanding and serving humans.
+
+---
+
+# ✨ Who Leads This Lab?
+
+A group of passionate creators and scientists from electronics, programming, neuroscience, and psychology,  
+collaborating to build a more human-centered technological future.
 
 ---
