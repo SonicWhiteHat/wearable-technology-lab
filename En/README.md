@@ -26,7 +26,7 @@ It includes work templates, detailed documentation, Agile/Scrum development plan
 | [`docs/sensors-and-technology/`](./docs/sensors-and-technology/README.md) | Sensors and technology overview |
 | [`docs/dashboard-design/`](./docs/dashboard-design/README.md) | Designing smart dashboards |
 | [`docs/deep-philosophy/`](./docs/deep-philosophy/README.md) | Deep philosophy and science behind wearables |
-| [`personal-development/`](./personal-development/README.md) | Personal growth and skill development resources |
+| [`/personal-development/`](./personal-development/README.md) | Personal growth and skill development resources |
 
 ---
 
